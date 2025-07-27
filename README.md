@@ -19,7 +19,7 @@ You can track daily habits, mark them as done, view your streaks, and add new ha
 
 ## 📸 Screenshot
 
-![Habit Tracker Screenshot](assets/screenshot.png)
+![Habit Tracker Screenshot](/assets/Screenshot.png)
 
 
 ## 🛠️ Tech Used
